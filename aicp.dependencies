@@ -5,13 +5,13 @@
     "branch":      "cm-14.1"
  },
  {
-    "repository": "LineageOS/android_kernel_xiaomi_cancro",
-    "target_path": "kernel/xiaomi/cancro",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
     "branch": "cm-14.1"
  },
  {
-    "repository": "TheMuppets/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi/xiaomi",
+    "repository": "LineageOS/android_kernel_xiaomi_cancro",
+    "target_path": "kernel/xiaomi/cancro",
     "branch": "cm-14.1"
  },
  {
